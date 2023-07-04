@@ -2,4 +2,4 @@ namespace: two
 helm:
   releaseName: test-again
   chart: testchart
-  repo: https://5409-183-82-162-123.ngrok-free.app
+  repo: https://e518-2406-b400-66-521-19ed-677f-bf6f-eb02.ngrok-free.app
