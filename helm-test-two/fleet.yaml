@@ -1,5 +1,5 @@
 namespace: two
 helm:
   releaseName: test-again
-  chart: testchart1
+  chart: panic
   repo: https://37c0-183-82-162-123.ngrok-free.app
