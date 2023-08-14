@@ -2,4 +2,4 @@ namespace: two
 helm:
   releaseName: test-again
   chart: panic
-  repo: https://37c0-183-82-162-123.ngrok-free.app
+  repo: https://209d-2406-b400-66-34a-bd9e-19d3-ec23-d37f.ngrok-free.app
